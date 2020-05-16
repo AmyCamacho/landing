@@ -1,0 +1,36 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  width: 900px;
+  height: 300px;
+  margin: 16px auto;
+}
+.cards img {
+  width: 130px;
+  height: 130px;
+}
+
+.card-apply {
+  width: 200px;
+  text-align: center;
+  padding: 30px;
+  border: 1px solid rgba(220, 220, 220);
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(240, 240, 240);
+}
+
+.card-learn {
+  width: 200px;
+  text-align: center;
+  padding: 30px;
+  border: 1px solid rgba(220, 220, 220);
+  box-shadow: 0 0 10px rgba(240, 240, 240);
+}
+
+.card-product {
+  width: 200px;
+  text-align: center;
+  padding: 30px;
+  border: 1px solid rgba(220, 220, 220);
+  box-shadow: 0 0 10px rgba(240, 240, 240);
+}
